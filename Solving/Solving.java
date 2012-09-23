@@ -912,10 +912,6 @@ public class Solving extends Script {
 
 		return false;
 	}
-	
-	
-	
-	
 
 	@Override
 	public void run() {
